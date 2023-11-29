@@ -21,7 +21,7 @@ The tuber of *Coeloglossum viride var. bracteatum* is a Tibetan medicine that ha
 ----
 
 
-#### **Edaravone attenuates H2O2 or glutamate-induced toxicity in hippocampal neurons and improves AlCl3/D-galactose induced cognitive impairment in mice**
+#### **Edaravone attenuates H<sub>2</sub>O<sub>2</sub> or glutamate-induced toxicity in hippocampal neurons and improves AlCl3/D-galactose induced cognitive impairment in mice**
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -29,7 +29,7 @@ The tuber of *Coeloglossum viride var. bracteatum* is a Tibetan medicine that ha
 ![](project_2.png)
 :::
 ::: {.column width="50%"}
-In this project, we investigated the neuroprotective effects of Eda in cultured hippocampal neurons and in a mouse model of AlCl3/D-galactose-induced cognitive impairment. Eda protected hippocampal neurons by eliminating H2O2 or glutamate-induced toxicity, leading to decreased cell viability and neurite shortening. Consistently, Eda restored impaired levels of BDNF, FGF2 and their associated signaling axes (including TrkB, p-Akt and Bcl-2) to attenuate neuronal death. 
+In this project, we investigated the neuroprotective effects of Eda in cultured hippocampal neurons and in a mouse model of AlCl3/D-galactose-induced cognitive impairment. Eda protected hippocampal neurons by eliminating H<sub>2</sub>O<sub>2</sub> or glutamate-induced toxicity, leading to decreased cell viability and neurite shortening. Consistently, Eda restored impaired levels of BDNF, FGF2 and their associated signaling axes (including TrkB, p-Akt and Bcl-2) to attenuate neuronal death. 
 :::
 :::
 
