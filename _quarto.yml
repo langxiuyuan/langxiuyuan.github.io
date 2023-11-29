@@ -1,0 +1,70 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Xiuyuan Lang"                                # Your name
+  description: "Xiuyuan Lang is a first-year Ph.D. student at Case Western Reserve University"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  
+  favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/favicon.png
+    
+    # your sub-pages
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+        
+    
+    # your social media handles
+    right:
+      - icon: github
+        href: https://github.com/langxiuyuan
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?hl=en&user=Wf_oSRUAAAAJ&view_op=list_works&gmla=AH70aAVTaGwQ9jr7B9QpY00tvwC660uWnrZ-KPjgj2jjbGtqDNYqSytcDmYzRvsIv9DTpEbhljnba7GIzJHYB290BmMRFFmWTANQGA
+      - icon: envelope
+        aria-label: email
+        href: "mailto:xxl1432@case.edu"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Xiuyuan Lang</span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/langxiuyuan/langxiuyuan.github.io">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

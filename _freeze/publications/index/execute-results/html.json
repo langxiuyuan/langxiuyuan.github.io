@@ -1,0 +1,15 @@
+{
+  "hash": "939d47034071a9c42b2124e8f3f421dd",
+  "result": {
+    "markdown": "---\ntitle: Publications\necho: false\nsection-divs: false\n---\n\n\n\n### 2022{#published-2022}\n```{=html}\n<ul class='list-group list-group-flush'><li class='list-group-item'><font color=\"#C33C54\">\"Coeloglossum viride Var. Bracteatum Extract Attenuates MPTP-Induced Neurotoxicity in vivo by Restoring BDNF-TrkB and FGF2-Akt Signaling Axis and Inhibiting RIP1-Driven Inflammation.\"</font><br>Xiuyuan Lang, Yang Hu, Jinpeng Bai, Jun Wang, Xiaoyan Qin, and Rongfeng Lan<br><a class=\"btn btn-outline-dark btn-sm\" href=\"https://www.frontiersin.org/articles/10.3389/fphar.2022.903235/full\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"bi bi-journal-richtext\" role='img' aria-label='Frontiers in pharmacology'></i>\n        Frontiers in pharmacology\n    </a></li></ul>\n```\n### 2021{#published-2021}\n```{=html}\n<ul class='list-group list-group-flush'><li class='list-group-item'><font color=\"#C33C54\">\"Edaravone attenuates H2O2 or glutamate-induced toxicity in hippocampal neurons and improves AlCl3/D-galactose induced cognitive impairment in mice.\"</font><br>Huantong Wu, Yun Yu, Xixi Li, Xiuyuan Lang, Runze Gu, Shengrui Fan, Xin Fang, Jinpeng Bai, Rongfeng Lan, and Xiaoyan Qin<br><a class=\"btn btn-outline-dark btn-sm\" href=\"https://www.sciencedirect.com/science/article/abs/pii/S0161813X21000504\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"bi bi-journal-richtext\" role='img' aria-label='Neurotoxicology'></i>\n        Neurotoxicology\n    </a></li></ul>\n```\n### 2019{#published-2019}\n```{=html}\n<ul class='list-group list-group-flush'><li class='list-group-item'><font color=\"#C33C54\">\"2,3,5,4â€²-Tetrahydroxystilbene-2-O-Î²-d-glucoside attenuates MPP+/MPTP-induced neurotoxicity in vitro and in vivo by restoring the BDNF-TrkB and FGF2-Akt signaling axis and inhibition of apoptosis.\"</font><br>Yun Yu, Xiuyuan Lang, Xixi Li, Runze Gu, Qingshan Liu, Rongfeng Lan, and Xiaoyan Qin<br><a class=\"btn btn-outline-dark btn-sm\" href=\"https://pubs.rsc.org/en/content/articlelanding/2019/fo/c9fo01309a/unauth\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"bi bi-journal-richtext\" role='img' aria-label='Food & function'></i>\n        Food & function\n    </a></li></ul>\n```\n\n\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

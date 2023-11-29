@@ -1,0 +1,32 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "img/Xiuyuan_Lang.jpg"
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/langxiuyuan
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=Wf_oSRUAAAAJ&view_op=list_works&gmla=AH70aAVTaGwQ9jr7B9QpY00tvwC660uWnrZ-KPjgj2jjbGtqDNYqSytcDmYzRvsIv9DTpEbhljnba7GIzJHYB290BmMRFFmWTANQGA
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.xxl1432@case.edu"  
+---
+
+# Biography
+
+I am currently a first-year Ph.D. student at Case Western Reserve University. Broadly, my research interests focus on the application of mathematical models and computational techniques to challenging problems in biological data, especially regarding the three-dimensional genome organization at the single-cell level. I am passionate about improving the accuracy and efficiency of single-cell Hi-C data analysis and committed to developing novel methods for better processing and interpretation of these data. 
+
+# Education
+
+**Ph.D. in Biomedical Sciences Training Program, 2023 - present**
+Case Western Reserve University, School of Medicine
+
+**BS in Biological Science, 2017 - 2021**
+Minzu University of China, 
+
+

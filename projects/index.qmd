@@ -1,0 +1,61 @@
+---
+title: Projects
+---
+
+#### ***Coeloglossum viride Var. Bracteatum* Extract Attenuates MPTP-Induced Neurotoxicity in vivo by Restoring BDNF-TrkB and FGF2-Akt Signaling Axis and Inhibiting RIP1-Driven Inflammation**
+
+::: {.columns}
+::: {.column width="50%"}
+![](project_1.png)
+:::
+::: {.column width="50%"}
+The tuber of *Coeloglossum viride var. bracteatum* is a Tibetan medicine that has been used for generations as a tonic for Yang and Qi, tranquilizing, to enhance intelligence and to promote longevity. We have previously characterized the constituents of *Coeloglossum viride var. bracteatum* extract (CE) and investigated its anti-Alzheimer’s disease (AD) effect in mice models. However, the exact role of CE in Parkinson’s disease (PD), especially the neurotrophic and inflammatory pathways regulated by CE, remains unknown. In this study, we investigated the anti-PD effects of CE in an MPTP-induced acute mouse model and its underlying mechanisms, focusing on BDNF, FGF2 and their mediated signaling pathways and RIP1-driven inflammatory signaling axis.
+
+:::
+:::
+
+
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wf_oSRUAAAAJ&sortby=pubdate&citation_for_view=Wf_oSRUAAAAJ:u-x6o8ySG0sC" target="_blank">Google Scholar</a><br>
+
+
+----
+
+
+#### **Edaravone attenuates H2O2 or glutamate-induced toxicity in hippocampal neurons and improves AlCl3/D-galactose induced cognitive impairment in mice**
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](project_2.png)
+:::
+::: {.column width="50%"}
+In this project, we investigated the neuroprotective effects of Eda in cultured hippocampal neurons and in a mouse model of AlCl3/D-galactose-induced cognitive impairment. Eda protected hippocampal neurons by eliminating H2O2 or glutamate-induced toxicity, leading to decreased cell viability and neurite shortening. Consistently, Eda restored impaired levels of BDNF, FGF2 and their associated signaling axes (including TrkB, p-Akt and Bcl-2) to attenuate neuronal death. 
+:::
+:::
+
+
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wf_oSRUAAAAJ&sortby=pubdate&citation_for_view=Wf_oSRUAAAAJ:qjMakFHDy7sC" target="_blank">Google Scholar</a><br>
+
+----
+
+
+#### **2,3,5,4′-Tetrahydroxystilbene-2-O-β-d-glucoside attenuates MPP+/MPTP-induced neurotoxicity in vitro and in vivo by restoring the BDNF-TrkB and FGF2-Akt signaling axis and inhibition of apoptosis**
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](project_3.png)
+:::
+::: {.column width="50%"}
+The major bioactive ingredients of Polygonum multiflorum THSG is well established for its properties of anti-oxidation, anti-aging and anti-inflammation. Increasing evidence supports the capacity of THSG to ameliorate the biochemistry of neurotrophins and their downstream signaling axis in mouse models to attenuate neurodegenerative diseases such as Alzheimer’s and Parkinson’s. In this work, the neuroprotective effects of THSG were studied in vitro and in vivo, and unravel the underlying mechanism against toxin-induced neural atrophy in hope of providing a new avenue on the use and pharmacological research of edible medicine for anti-neurodegenerative disease.
+:::
+:::
+
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wf_oSRUAAAAJ&sortby=pubdate&citation_for_view=Wf_oSRUAAAAJ:UeHWp8X0CEIC" target="_blank">Google Scholar</a><br>
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://scholar.google.com/citations?hl=en&user=Wf_oSRUAAAAJ&view_op=list_works&sortby=pubdate" role="button" target="_blank" style="padding: 15px 30px;">View all publications in Google Scholar</a>
+</div>
+```
